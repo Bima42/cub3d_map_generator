@@ -3,7 +3,7 @@
 ## Install
 ```
 git clone
-python3 dfs_map_generator.py
+python3 cub3d_map_generator.py
 ```
 
 - You can clone this generator in your cub3d repository
