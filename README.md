@@ -14,4 +14,4 @@ python3 map_generator.py
 
 ## Sources
 
-HUGE THANKS TO "@Jerome-JJT"
+HUGE THANKS TO @Jerome-JJT
