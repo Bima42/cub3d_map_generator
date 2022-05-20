@@ -11,6 +11,7 @@ python3 dfs_map_generator.py
 - Add your RGB ceiling datas (ex : 220,40,0)
 - Same for RGB floor datas
 - The map.cub file is created !
+- NOTE : go to the script and modify sizex and sizey to change maze size
 
 HUGE THANKS TO @Jerome-JJT : https://github.com/Jerome-JJT
 
