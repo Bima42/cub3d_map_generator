@@ -16,6 +16,8 @@ HUGE THANKS TO @Jerome-JJT : https://github.com/Jerome-JJT
 
 ## Depth First Search Algorithm (DFS)
 
+This script is based on DFS algorithm.
+
 https://user-images.githubusercontent.com/87313922/169560415-e023bed9-5cff-4b8e-9e00-1c810571337b.mp4
 
 ## Sources
