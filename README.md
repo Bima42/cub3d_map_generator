@@ -16,7 +16,7 @@ HUGE THANKS TO @Jerome-JJT : https://github.com/Jerome-JJT
 
 ## Depth First Search Algorithm (DFS)
 
-![caption](https://en.wikipedia.org/wiki/File:MAZE_30x20_DFS.ogv)
+![Watch the video](https://upload.wikimedia.org/wikipedia/commons/4/45/MAZE_30x20_DFS.ogv)
 
 ## Sources
 
