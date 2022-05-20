@@ -1,7 +1,7 @@
 import random
 
-sizex = 10
-sizey = 10
+sizex = 50
+sizey = 50
 
 maze = []
 skip = 0
