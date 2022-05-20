@@ -12,6 +12,13 @@ python3 map_generator.py
 - Same for RGB floor datas
 - The map.cub file is created !
 
+HUGE THANKS TO @Jerome-JJT : https://github.com/Jerome-JJT
+
+## Depth First Search Algorithm (DFS)
+
+![caption](https://en.wikipedia.org/wiki/File:MAZE_30x20_DFS.ogv)
+
 ## Sources
 
-HUGE THANKS TO @Jerome-JJT
+- https://en.wikipedia.org/wiki/Depth-first_search
+- https://favtutor.com/blogs/depth-first-search-python
