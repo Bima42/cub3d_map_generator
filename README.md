@@ -13,7 +13,7 @@ python3 cub3d_map_generator.py
 - The map.cub file is created !
 - NOTE : go to the script and modify sizex and sizey to change maze size
 
-HUGE THANKS TO @Jerome-JJT : https://github.com/Jerome-JJT
+HUGE THANKS TO [@Jerome-JJT](https://github.com/Jerome-JJT)
 
 ## Depth First Search Algorithm (DFS)
 
